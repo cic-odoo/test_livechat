@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://cic-odoo-example-sh-dev-staging-1353889.dev.odoo.com/im_livechat/external_lib.css"/>
+<script type="text/javascript" src="https://cic-odoo-example-sh-dev-staging-1353889.dev.odoo.com/im_livechat/external_lib.js"></script>
+<script type="text/javascript" src="https://cic-odoo-example-sh-dev-staging-1353889.dev.odoo.com/im_livechat/loader/1"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cic-odoo/test_livechat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
